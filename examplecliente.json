@@ -1,0 +1,14 @@
+{
+    "dpi": "12345",
+    "nombre": "John",
+    "segundo_nombre": null,
+    "tercer_nombre": null,
+    "primer_apellido": "Town",
+    "segundo_apellido": null,
+    "genero": "m",
+    "nacimiento": "01/03/1993",
+    "id_municipio": 12,
+    "direccion": "Sacapuntas"
+}
+
+{"error":"Recurso desconocido!"}
